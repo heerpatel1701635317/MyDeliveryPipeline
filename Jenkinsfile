@@ -37,4 +37,4 @@ pipeline {
             }
         }
     }
-} // auto trigger
+} // auto trigge
