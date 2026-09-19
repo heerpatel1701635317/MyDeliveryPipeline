@@ -37,4 +37,4 @@ pipeline {
             }
         }
     }
-} // test auto trigger at the top
+} // this the auto tringger
