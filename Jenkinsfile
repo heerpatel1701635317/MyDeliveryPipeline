@@ -37,4 +37,4 @@ pipeline {
             }
         }
     }
-} // this the auto tringger
+} 
